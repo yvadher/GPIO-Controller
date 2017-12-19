@@ -33,7 +33,7 @@ Clone the project, follow the google android things doc [here](https://developer
 
 * [Android things](https://developer.android.com/things/hardware/index.html) - Android things
 * [Maven](https://maven.apache.org/) - Dependency Management
-* [Real time database](https://firebase.google.com/) - Real time database
+* [Real time Firebase database](https://firebase.google.com/) - Real time database
 
 
 
