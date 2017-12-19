@@ -1,5 +1,7 @@
 # GPIO-controller
 
+This is optional class project for Real time embeded system.
+
 This project gives easy access to GPIO of raspberry pi. With firebase database and this library one could control GPIO of raspbery Pi running Android things OS.  
 
 ## Getting Started
@@ -33,13 +35,7 @@ Clone the project, follow the google android things doc [here](https://developer
 * [Maven](https://maven.apache.org/) - Dependency Management
 * [Real time database](https://firebase.google.com/) - Real time database
 
-## Contributing
 
-Please read [CONTRIBUTING.md](https://gist.github.com/PurpleBooth/b24679402957c63ec426) for details on our code of conduct, and the process for submitting pull requests to us.
-
-## Versioning
-
-We use [SemVer](http://semver.org/) for versioning. For the versions available, see the [tags on this repository](https://github.com/your/project/tags). 
 
 
 
