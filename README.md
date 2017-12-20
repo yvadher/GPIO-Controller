@@ -26,8 +26,8 @@ adb connect Android.local
 Set up the firebase account on google firebase. Add android app project. Set the database as following.
 <img width="252" alt="database" src="https://user-images.githubusercontent.com/20786776/34227259-66702554-e581-11e7-9bb0-e8716f536b88.PNG">
 
-
 Set the rules of database as following. 
+
 <img width="247" alt="rules" src="https://user-images.githubusercontent.com/20786776/34227082-c53494d6-e580-11e7-9d0b-40a9f5e62ea7.PNG">
 
 Build the project.
