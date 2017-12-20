@@ -23,6 +23,10 @@ Connect Raspberry pi using adb tool. More info can be found here. [adb tool](htt
 ```
 adb connect Android.local
 ```
+Set up the firebase account on google firebase. Add android app project. Set the database as following.
+
+Set the rules of database as following. 
+Build the project.
 Upload the code to raspberry pi. 
 
 ## Deployment
